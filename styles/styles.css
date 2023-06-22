@@ -90,7 +90,7 @@ body{
     font-weight: 600;
     text-align: center;
     text-decoration: none;
-    width: 26.6rem;
+    width: 70%;
     padding: 10px;
     display: flex;
     justify-content: center;
@@ -139,7 +139,7 @@ body{
     }
 
     .apresentacao__conteudo {
-        width: auto;
+        width: 70%;
         padding: 0% 5%;
         margin: 1rem;
     }
