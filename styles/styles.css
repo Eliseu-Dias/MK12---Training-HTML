@@ -129,7 +129,8 @@ body{
     .cabecalho__menu {
         justify-content: center;
         padding-top: 10%;
-        width: 68%;
+        padding-left: 0%;
+        width: auto;
     }
 
     .apresentacao {
