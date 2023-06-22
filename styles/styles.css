@@ -124,3 +124,24 @@ body{
         padding: 0% 5%;
     }
 }
+
+@media (max-width: 500px) {
+    .cabecalho__menu {
+        justify-content: center;
+        padding-top: 10%;
+        width: 68%;
+    }
+
+    .apresentacao {
+        flex-direction: column-reverse;
+        padding: 0% 5%;
+    }
+
+    .apresentacao__conteudo {
+        width: auto;
+    }
+
+    .imagem {
+        width: 70%;
+    }   
+}
